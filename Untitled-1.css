@@ -1,0 +1,14 @@
+body {background-color: #832a8b;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(cityrain.jpg);
+    
+}
+h1 { text-align: center;
+     color:rgb(5, 5, 5);
+     font-weight: bold;
+     border-top: #832a8b;
+     padding-top: 10%;
+}
+h2 {text-align: center;
+    color: rgb(5, 5, 5);
+    }
